@@ -1,0 +1,27 @@
+HardWare
+
+Preview: https://www.youtube.com/watch?v=iT6E92Kt38o
+Playlist: https://www.youtube.com/playlist?list=PLHz_AreHm4dn1JHgN9wpbIUhzZmycYQXW
+
+
+HTML 
+ 
+Preview: https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=1
+Playlist: https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
+
+
+Javascript
+
+Preview: https://www.youtube.com/watch?v=BXqUH86F-kA
+Playlist: https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
+
+
+Python 
+
+Preview: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+Playlist: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+
+
+
+
+https://stackoverflow.com/questions/74349854/why-does-my-css-grid-when-i-add-a-href-to-an-image

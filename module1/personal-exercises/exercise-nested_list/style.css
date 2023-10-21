@@ -1,0 +1,34 @@
+ol {
+    list-style-type: upper-roman;
+}
+
+.background-list{
+    list-style-type: upper-alpha;
+}
+
+.html-concepts{
+    list-style-type: upper-alpha;
+}
+
+.list-types{
+    list-style-type: lower-roman;
+}
+
+.link-types {
+    list-style-type: lower-roman;
+}
+.concepts-css{
+    list-style-type: upper-alpha;
+}
+
+.basic-selectors{
+    list-style-type: lower-roman;
+}
+
+.programming-langauges{
+    list-style-type: upper-alpha;
+}
+
+.database-types{
+    list-style-type: upper-alpha;
+}

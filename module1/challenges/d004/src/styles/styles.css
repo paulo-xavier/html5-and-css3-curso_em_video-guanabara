@@ -1,0 +1,60 @@
+h1{
+    font-family: 'Ysabeau SC', 'sans-serif';
+    font-weight: 500;
+}
+
+header{
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+main{
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.smileys,
+.hands,
+.foods,
+.objects,
+.sports,
+.animals{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+}
+
+h2{
+    font-family: 'Ysabeau SC', 'sans-serif';
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    border: 2px solid black;
+    width: 200px;
+    border-radius: 50px;
+
+}
+
+li{
+    
+    font-weight: 100;
+    padding: 3px;
+    margin-right: 25px;
+}
+

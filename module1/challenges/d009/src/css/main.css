@@ -1,0 +1,49 @@
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+}
+
+main {
+    text-align: center;
+    height: 50%;
+    width: 500px;
+}
+
+.videos-container{
+    display: grid;
+    margin-top: 10px;
+    column-gap: 0px;
+    column-gap: 0px;
+}
+
+@media (max-width: 480px) {
+    .videos-container{
+        display: block;
+    }
+}
+
+.html{
+	grid-column-start: 1;
+    grid-column-end: 2;
+    margin-left: 35px; 
+}
+.javascript {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    margin-right: 35px;
+}
+
+.hardware {
+    margin-left: 35px;
+}
+
+.python{
+    margin-right: 35px;
+}
+
+

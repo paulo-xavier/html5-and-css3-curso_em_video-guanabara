@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Training responsive images in HTML </title>
+</head>
+<body>
+    <h1> Using different types of images </h1>
+    <h2> Starting with the greatest image</h2>
+
+    <picture>
+        <source media="(max-width: 250px)" srcset="images/image-200.png" type="image/png">
+        <source media="(max-width:637px )" srcset="images/image-400.png" type="image/png">
+        <source media="(max-width:885px )" srcset="images/image-600.png" type="image/png">
+        <source media="(max-width:1045px)" srcset="images/image-850.png" type="image/png">
+        <img src="./images/image-1000.png" alt="imagem 1000px">
+    </picture>
+</body>
+</html>

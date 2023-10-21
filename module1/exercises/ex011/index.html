@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medias in HTML5</title>
+</head>
+<body>
+    <h1> Dynamic Images </h1>
+    <p> Try to open this website in different devices or if you prefer, increase and decrease the size of your browse!</p>
+    
+    <picture>
+        <source media="(max-width: 750px )" srcset="images/small.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="images/medium.png" type="image/png">
+        <img src="./images/large.png" alt="Flexible image">
+    </picture>
+
+    <h1> Playing  audios </h1>
+
+    <p> Let's learn how to play audios in HTML5. </p>
+    <audio src="./medias/degrees-under.mp3" controls autoplay></audio>
+    <!--MP3 WAV OGG (open source format)-->
+    
+    <audio preload="auto" autoplay controls loop >
+        <source src="./medias/guanacast-33.mp3" type="audio/mpeg">
+        <source src="./medias/guanacast-33.ogg" type="audio/ogg">
+        <source src="./medias/guanacast-33.wav" type="audio/wav">
+        <p> Unfortunately, your browser doesn't support  audio media <a href="./medias/guanacast-33.mp3"> Click here to install the archive in MP3</a></p>
+    </audio>
+
+</body>
+</html> 
+
+
+

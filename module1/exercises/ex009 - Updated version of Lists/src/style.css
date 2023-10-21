@@ -1,0 +1,54 @@
+body{
+    font-family: 'Roboto';
+}
+
+h2,
+h1,
+p{
+    text-align: center;
+}
+
+.list-unordered-circle{
+    list-style-type: circle;
+}
+
+.list-unordered-square{
+    list-style-type: square;
+}
+
+.list-unordered-none{
+    list-style-type: none;
+}
+
+.list-ordered-decimal{
+    list-style-type: decimal;
+}
+
+.list-ordered-decimal-leading-zero{
+    list-style-type: decimal-leading-zero;
+}
+
+.list-ordered-lower-alpha{
+    list-style-type: lower-alpha;
+}
+
+.list-ordered-upper-alpha{
+    list-style-type: upper-alpha;
+}
+
+.list-ordered-lower-roman{
+    list-style-type: lower-roman;
+}
+
+.list-ordered-upper-roman{
+    list-style-type: upper-roman;
+}
+
+
+
+
+.list-container{
+    text-align: center;
+    list-style-position: inside;
+}
+
